@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br><br><br>
 
 ## 🙋‍♂️ m e 
-[![Instagram](https://img.shields.io/badge/Instagram-EA4335?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/seong_kun0116/?hl=ko) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:tjdrms01169831@gmail.com)
+[![Blog](https://img.shields.io/badge/Velog-EA4335?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@tjdrms0116) [![Instagram](https://img.shields.io/badge/Instagram-EA4335?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/seong_kun0116/?hl=ko) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:tjdrms01169831@gmail.com)
 <br><br><br>
 
 
