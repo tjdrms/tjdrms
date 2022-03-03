@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=최%20성%20근&desc=Mobile%20App%20Dev.&descSize=20&fontSize=60&animation=fadeIn&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=안녕하세요!%20최%성근입니다!&desc=Mobile%20App%20Dev.&descSize=20&fontSize=60&animation=fadeIn&descAlignY=68)
 
 <div align=center>
 
